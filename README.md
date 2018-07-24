@@ -2,5 +2,5 @@
 
 ### [Exercício: Conceitos Avançados: Polimorfismo](https://rodrigonoll.github.io/aula/java-avancado/#/4)
 
-1. Clone o projeto [https://github.com/aula-java/polimorfismo](https://github.com/aula-java/polimorfismo)
+1. Clone este projeto 
 2. Remova os comentários do teste unitário e faça o projeto executar sem erro.
